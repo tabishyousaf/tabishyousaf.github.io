@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tabish Yousaf | Network & Security Engineer</title>
+<meta name="description" content="Network & Security Engineer | Fortinet | Cisco Wireless | VPN | VLAN | OSPF | STP | FreeRADIUS | IT Infrastructure Pakistan">
+<meta name="keywords" content="Network Engineer Pakistan, Cyber Security Engineer Pakistan, Fortinet Firewall Engineer, Cisco Wireless Engineer">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body{margin:0;font-family:Arial;background:#f4f6f9;color:#222}
+header{background:#0a2540;color:#fff;padding:70px 20px;text-align:center}
+section{max-width:1100px;margin:auto;padding:40px}
+.card{background:#fff;padding:25px;border-radius:10px;margin-bottom:25px;box-shadow:0 3px 8px rgba(0,0,0,0.1)}
+h1,h2{color:#0a2540}
+a.button{display:inline-block;padding:12px 20px;background:#0a2540;color:#fff;border-radius:6px;text-decoration:none;margin:5px}
+footer{text-align:center;padding:20px;background:#0a2540;color:#fff}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Muhammad Tabish Yousaf</h1>
+<p>Network & Security Engineer</p>
+<a class="button" href="cv.pdf" target="_blank">Download CV</a>
+<a class="button" href="https://wa.me/923027398602" target="_blank">WhatsApp</a>
+</header>
+
+<section>
+
+<div class="card">
+<h2>Professional Summary</h2>
+<p>Network & Security Engineer with hands-on experience in Fortinet NGFW, Cisco Wireless, VPN, VLAN segmentation, OSPF, STP, FreeRADIUS, Active Directory, CCTV IP surveillance, and enterprise IT infrastructure security.</p>
+</div>
+
+<div class="card">
+<h2>Experience</h2>
+<ul>
+<li><b>Network Engineer – Mahmood Group of Industries</b> (2021–2025)<br>Enterprise firewall, VPN, VLAN, wireless and monitoring infrastructure.</li>
+<li><b>Network Engineer – Cola Next</b> (2025–Present)<br>Corporate IT security, routing & switching, wireless optimization.</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Projects</h2>
+<ul>
+<li>Enterprise Fortinet Firewall Hardening & VPN Deployment</li>
+<li>Cisco WLC Wireless Optimization</li>
+<li>FreeRADIUS Authentication System</li>
+<li>Secure CCTV IP Surveillance Networks</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Technical Skills</h2>
+<ul>
+<li>Fortinet, Cisco WLC, VLAN, OSPF, STP</li>
+<li>VPN (IPSec / SSL)</li>
+<li>Active Directory & GPO</li>
+<li>FreeRADIUS AAA</li>
+<li>PRTG, Wireshark</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Contact</h2>
+<p>LinkedIn: <a href="https://linkedin.com/in/muhammad-tabish-yousaf" target="_blank">linkedin.com/in/muhammad-tabish-yousaf</a></p>
+</div>
+
+</section>
+
+<footer>
+© 2025 Muhammad Tabish Yousaf — All Rights Reserved
+</footer>
+
+</body>
+</html>
